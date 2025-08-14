@@ -1,0 +1,6 @@
+<svg width="400" height="120" viewBox="0 0 400 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="120" height="120" rx="24" fill="white"/>
+  <text x="60" y="80" font-family="Inter, system-ui, sans-serif" font-size="60" font-weight="700" text-anchor="middle" fill="#3B82F6">A</text>
+  <circle cx="90" cy="30" r="6" fill="#3B82F6" opacity="0.6"/>
+  <text x="150" y="70" font-family="Inter, system-ui, sans-serif" font-size="28" font-weight="700" fill="white">Anchor Commercial Capital</text>
+</svg>
