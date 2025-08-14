@@ -1,0 +1,20 @@
+<svg width="500" height="80" viewBox="0 0 500 80" xmlns="http://www.w3.org/2000/svg">
+  <!-- Grayscale horizontal version -->
+  <defs>
+    <linearGradient id="grayscaleGradientHoriz" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#666666;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#333333;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <rect x="0" y="16" width="48" height="48" fill="url(#grayscaleGradientHoriz)" rx="12"/>
+  
+  <!-- Letter A in white -->
+  <text x="24" y="46" font-family="Inter, system-ui, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="white">A</text>
+  
+  <!-- Accent dot -->
+  <circle cx="38" cy="22" r="2" fill="#cccccc" opacity="0.6"/>
+  
+  <!-- Company name in dark gray -->
+  <text x="64" y="45" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="bold" fill="#333333">Anchor Commercial Capital</text>
+</svg>

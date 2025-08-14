@@ -1,0 +1,17 @@
+<svg width="80" height="80" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+  <!-- Grayscale version -->
+  <defs>
+    <linearGradient id="grayscaleGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#666666;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#333333;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="80" height="80" fill="url(#grayscaleGradient)" rx="16"/>
+  
+  <!-- Letter A in white -->
+  <text x="40" y="52" font-family="Inter, system-ui, sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="white">A</text>
+  
+  <!-- Accent dot -->
+  <circle cx="58" cy="22" r="3" fill="#cccccc" opacity="0.6"/>
+</svg>

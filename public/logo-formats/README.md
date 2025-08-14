@@ -11,6 +11,10 @@ This folder contains all the logo formats you'll need for marketing and branding
 ### Alternative Versions
 - `logo-white.svg` - White background version for dark surfaces
 - `logo-horizontal-white.svg` - Horizontal white version (500x80px)
+- `logo-black-white.svg` - Black and white version for single-color printing
+- `logo-horizontal-black-white.svg` - Horizontal black and white version
+- `logo-grayscale.svg` - Grayscale version for professional documents
+- `logo-horizontal-grayscale.svg` - Horizontal grayscale version
 - `logo-mark-only.svg` - Just the "A" symbol without text
 - `favicon.svg` - Small version for favicons (32x32px)
 
@@ -35,6 +39,18 @@ This folder contains all the logo formats you'll need for marketing and branding
 - Photography overlays
 - Colored backgrounds
 - Print materials on colored paper
+
+**Black & White Versions**
+- Single-color printing (newspapers, fax)
+- Cost-effective printing
+- High contrast applications
+- Photocopying and scanning
+
+**Grayscale Versions**
+- Professional documents
+- Black and white marketing materials
+- Corporate reports
+- When color printing is not available
 
 **Logo Mark Only**
 - Social media avatars
@@ -64,6 +80,10 @@ This folder contains all the logo formats you'll need for marketing and branding
 - White: #FFFFFF
 - Dark Text: #1E293B
 
+### Black & White Specifications
+- Black: #000000
+- White: #FFFFFF
+- Gray (for grayscale): #666666 to #333333
 ### Clear Space
 Maintain clear space around the logo equal to the height of the "A" letter in the logo.
 
@@ -116,3 +136,44 @@ To convert these SVG files to PNG, JPG, or other formats:
 - Stories: 1080x1920px
 
 Need help with specific formats or sizes? Contact your design team or use the specifications above as a guide.
+## Converting to JPEG Format
+
+Since JPEG doesn't support transparency, here are the recommended approaches:
+
+### Online Conversion Tools:
+1. **CloudConvert.com** (Recommended)
+   - Upload SVG file
+   - Select JPEG output
+   - Set quality: 90-95% for print, 80-85% for web
+   - Set white background for transparency
+
+2. **Convertio.co**
+   - Simple drag-and-drop interface
+   - Good quality output
+   - Batch conversion available
+
+### Recommended JPEG Sizes:
+
+**Print Use (300 DPI):**
+- Business cards: 300x300px
+- Letterhead: 400x400px
+- Brochures: 800x800px
+- Horizontal versions: Scale proportionally
+
+**Digital Use (72 DPI):**
+- Website: 200x200px
+- Social media: 400x400px
+- Email signature: 300x48px (horizontal)
+- Website header: 400x64px (horizontal)
+
+### Quality Settings:
+- **Print materials**: 90-95% quality
+- **Web use**: 80-85% quality
+- **Social media**: 85-90% quality (accounts for platform compression)
+
+### File Naming Convention:
+- `anchor-commercial-capital-logo-primary-400x400-jpeg.jpg`
+- `anchor-commercial-capital-logo-horizontal-300x48-jpeg.jpg`
+- `anchor-commercial-capital-logo-bw-200x200-jpeg.jpg`
+
+All JPEG versions should use a white background to replace the transparent areas in the SVG files.
