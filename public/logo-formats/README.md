@@ -5,12 +5,12 @@ This folder contains all the logo formats you'll need for marketing and branding
 ## Available Formats
 
 ### Primary Logos
-- `logo.svg` - Main logo with blue gradient background (120x120px)
-- `logo-horizontal.svg` - Horizontal layout with company name (400x120px)
+- `logo.svg` - Main logo with blue gradient background (80x80px)
+- `logo-horizontal.svg` - Horizontal layout with company name (500x80px)
 
 ### Alternative Versions
 - `logo-white.svg` - White background version for dark surfaces
-- `logo-horizontal-white.svg` - Horizontal white version
+- `logo-horizontal-white.svg` - Horizontal white version (500x80px)
 - `logo-mark-only.svg` - Just the "A" symbol without text
 - `favicon.svg` - Small version for favicons (32x32px)
 

@@ -1,6 +1,11 @@
-<svg width="400" height="120" viewBox="0 0 400 120" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="120" height="120" rx="24" fill="white"/>
-  <text x="60" y="80" font-family="Inter, system-ui, sans-serif" font-size="60" font-weight="700" text-anchor="middle" fill="#3B82F6">A</text>
-  <circle cx="90" cy="30" r="6" fill="#3B82F6" opacity="0.6"/>
-  <text x="150" y="70" font-family="Inter, system-ui, sans-serif" font-size="28" font-weight="700" fill="white">Anchor Commercial Capital</text>
+<svg width="500" height="80" viewBox="0 0 500 80" xmlns="http://www.w3.org/2000/svg">
+  <!-- Logo Icon with white background -->
+  <rect x="10" y="10" width="60" height="60" rx="12" fill="white" stroke="#E5E7EB" stroke-width="1" />
+  <text x="40" y="50" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="bold" fill="#3B82F6" text-anchor="middle">A</text>
+  <circle cx="55" cy="20" r="3" fill="#93C5FD" opacity="0.8" />
+  
+  <!-- Company Name in white -->
+  <text x="85" y="45" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+    Anchor Commercial Capital
+  </text>
 </svg>
